@@ -1,0 +1,58 @@
+{
+	"Markdown Image": {
+		"prefix": "mi",
+		"body": "![$2]($1)"
+	},
+	"HTML Image": {
+		"prefix": "hi",
+		"body": "<img src=\"$1\" alt=\"$2\">"
+	},
+	"Markdown Heading 1": {
+		"prefix": "mh1",
+		"body": "# $1"
+	},
+	"Markdown Heading 2": {
+		"prefix": "mh2",
+		"body": "## $1"
+	},
+	"Markdown Heading 3": {
+		"prefix": "mh3",
+		"body": "### $1"
+	},
+	"Markdown Heading 4": {
+		"prefix": "mh4",
+		"body": "#### $1"
+	},
+	"Markdown Heading 5": {
+		"prefix": "mh5",
+		"body": "##### $1"
+	},
+	"HTML Heading 1": {
+		"prefix": "hh1",
+		"body": "<h1>$1</h1>"
+	},
+	"HTML Heading 2": {
+		"prefix": "hh2",
+		"body": "<h2>$1</h2>"
+	},
+	"HTML Heading 3": {
+		"prefix": "hh3",
+		"body": "<h3>$1</h3>"
+	},
+	"HTML Heading 4": {
+		"prefix": "hh4",
+		"body": "<h4>$1</h4>"
+	},
+	"HTML Heading 5": {
+		"prefix": "hh5",
+		"body": "<h5>$1</h5>"
+	},
+	"HTML Heading 1 Centered": {
+		"prefix": "hh1c",
+		"body": "<h1 style=\"text-align: center;\">$1</h1>"
+	},
+	"HTML Heading 2 Centered": {
+		"prefix": "hh2c",
+		"body": "<h2 style=\"text-align: center;\">$1</h2>"
+	}
+}

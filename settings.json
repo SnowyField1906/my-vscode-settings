@@ -118,7 +118,12 @@
 	"git.openRepositoryInParentFolders": "always",
 
 	/* GitHub */
-	"github.copilot.enable": { "*": true },
+	"github.copilot.enable": {
+		"*": true,
+		"plaintext": "true",
+		"markdown": "true",
+		"scminput": "true"
+	},
 	"github.copilot.editor.enableAutoCompletions": true,
 
 	/* Prettier */
