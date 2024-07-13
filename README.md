@@ -5,39 +5,38 @@
 <br/>
 </div>
 
-<figure align="middle">
-  <img src="./example.png" width="100%" />
-    <figcaption>Layout</figcaption>
+<div align='center'>
+    <img src="./example.png" width="100%" />
+    <p align='center'>Layout</p>
+</div>
 <br/>
-</figure>
-<figure align="middle">
+<div align='center'>
     <img src="./cropped-1.png" width="50%" />
-  <figcaption>Sidebar (Explorer)</figcaption>
-    <br/>
-</figure>
-<figure align="middle">
+    <p align='center'>Sidebar (Explorer)</p>
+</div>
+<br/>
+<div align='center'>
     <img src="./cropped-2.png" width="50%" />
-    <figcaption>Panel (Terminal)</figcaption>
-    <br/>
-</figure>
-<figure align="middle">
+    <p align='center'>Panel (Terminal)</p>
+</div>
+<br/>
+<div align='center'>
     <img src="./cropped-3.png" width="50%" />
-    <figcaption>Menu (Command Palette)</figcaption>
-    <br/>
-</figure>
+    <p align='center'>Menu (Command Palette)</p>
+</div>
 
-### Scopes of modifications:
+### Scopes of modifications
 
 - Layout
 - Theme
 - Syntax Highlighting
 
-### Required extensions:
+### Required extensions
 
 - [Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension)
 - [Nomo Dark Icon Theme](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-icontheme-nomo-dark)
 
-### Required fonts:
+### Required fonts
 
 - [Fira Code](https://fonts.google.com/specimen/Fira+Code)
 - [Noto Serif JP](https://fonts.google.com/noto/specimen/Noto+Serif+JP)
