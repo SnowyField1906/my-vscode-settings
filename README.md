@@ -22,6 +22,8 @@
 - [Noto Serif JP](https://fonts.google.com/noto/specimen/Noto+Serif+JP)
 - [Cormorant SC](https://fonts.google.com/specimen/Cormorant+SC)
 
+### Demo
+
 <div align='center'>
     <img src="./example.png" width="100%" />
     <p align='center'>Layout (3:2 Aspect Ratio Screen)</p>
