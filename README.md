@@ -22,6 +22,13 @@
 - [Noto Serif JP](https://fonts.google.com/noto/specimen/Noto+Serif+JP)
 - [Cormorant SC](https://fonts.google.com/specimen/Cormorant+SC)
 
+### Token highlighting palette
+
+<div align='center'>
+    <img src="./palette.png" width="100%" />
+    <a align='center' href='https://coolors.co/cbb8ae-eb996c-c586c0-85b980-33c1c1'>coolors.co/cbb8ae-eb996c-c586c0-85b980-33c1c1</a>
+</div>
+
 ### Demo
 
 <div align='center'>
