@@ -11,17 +11,17 @@
 </div>
 <br/>
 <div align='center'>
-    <img src="./cropped-1.png" width="50%" />
+    <img src="./cropped-1.png" width="100%" />
     <p align='center'>Sidebar (Explorer)</p>
 </div>
 <br/>
 <div align='center'>
-    <img src="./cropped-2.png" width="50%" />
+    <img src="./cropped-2.png" width="100%" />
     <p align='center'>Panel (Terminal)</p>
 </div>
 <br/>
 <div align='center'>
-    <img src="./cropped-3.png" width="50%" />
+    <img src="./cropped-3.png" width="100%" />
     <p align='center'>Menu (Command Palette)</p>
 </div>
 
