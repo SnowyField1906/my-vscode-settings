@@ -7,7 +7,7 @@
 
 <div align='center'>
     <img src="./example.png" width="100%" />
-    <p align='center'>Layout</p>
+    <p align='center'>Layout (3:2 Aspect Ratio Screen)</p>
 </div>
 <br/>
 <div align='center'>
