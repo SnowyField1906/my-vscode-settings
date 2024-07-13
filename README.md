@@ -47,6 +47,7 @@
     <img src="./cropped-4.png" width="100%" />
     <p align='center'>Familiar Language Highlighting (TypeScript)</p>
 </div>
+<br/>
 <div align='center'>
     <img src="./cropped-5.png" width="100%" />
     <p align='center'>Unfamiliar Language Highlighting (Motoko)</p>
