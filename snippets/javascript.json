@@ -1,0 +1,10 @@
+{
+	"Print to console": {
+		"prefix": "clg",
+		"body": ["console.log($1);", "$2"]
+	},
+	"Jest test": {
+		"prefix": "jit",
+		"body": ["it('$1', async () => {", "    $2", "});"]
+	}
+}
