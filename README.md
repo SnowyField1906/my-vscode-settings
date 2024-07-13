@@ -5,7 +5,26 @@
 <br/>
 </div>
 
-![screenshot](./example.png)
+<figure align="middle">
+  <img src="./example.png" width="100%" />
+    <figcaption>Layout</figcaption>
+<br/>
+</figure>
+<figure align="middle">
+    <img src="./cropped-1.png" width="50%" />
+  <figcaption>Sidebar (Explorer)</figcaption>
+    <br/>
+</figure>
+<figure align="middle">
+    <img src="./cropped-2.png" width="50%" />
+    <figcaption>Panel (Terminal)</figcaption>
+    <br/>
+</figure>
+<figure align="middle">
+    <img src="./cropped-3.png" width="50%" />
+    <figcaption>Menu (Command Palette)</figcaption>
+    <br/>
+</figure>
 
 ### Scopes of modifications:
 
