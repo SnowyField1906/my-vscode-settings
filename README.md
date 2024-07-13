@@ -24,6 +24,10 @@
     <img src="./cropped-3.png" width="100%" />
     <p align='center'>Menu (Command Palette)</p>
 </div>
+<div align='center'>
+    <img src="./cropped-4.png" width="100%" />
+    <p align='center'>Syntax Highlighting (Unfamiliar Language)</p>
+</div>
 
 ### Scopes of modifications
 
